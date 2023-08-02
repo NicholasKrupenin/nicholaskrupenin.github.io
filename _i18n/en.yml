@@ -1,0 +1,52 @@
+en:
+  hello: "Hello world"
+
+global:
+  name: Nicholas Krupenin
+  birth: Birthday
+  example: project example
+
+skill:
+  myself: Bio
+  bio: | 
+    All my entire career I have a deal with diffirent business processes: developing & manufacturing products, 
+    B2B sales & marketing, relationships between government and private sector, startup launching, etc. 
+    And I have noticed that Web products are becoming not just a necessary element of any business process, 
+    but are gradually becoming leading roles. Investment in Web products leads to added value growth, 
+    reducing of total costs and speeding up of activities. As a result I have decided to dive deep into the Web Developing, 
+    especially Ruby on Rails (RoR) ecosytem, and started to be as professional developer. 
+    So now I'm trying to do my best to growth as Web Developer and help companies to reach business goals.
+  skills: Skills
+  dev_skills: Developer skills
+  ruby: |
+    Ruby is excellent way to interpret your thoughts and ideas to any machine through Object-oriented programming tools and with the assistance of unique Ruby community (who also creates awesome gems, patterns, education resources, etc.)
+  ror: |
+    etc
+  scraping: |
+    Nokogiri and OpenURI gems help to retreive data from the Web according to individual settings and then Ruby 
+    builtin methods allows to transform this data to any preferable format (output text to termianl console, 
+    .xlsx tables, etc.).
+  spec: |
+    Currently I use RSpec tests (with FactoryBot and Capybara gems) for checking RoR models, controller actions, 
+    policies, etc. For me tests are 'internal auditors', so 'due diligence' of an app is good technical and 
+    business practice, so I am on my way to learn RSpec and other tests more deeply.
+
+language:
+  title: Language skills
+  rus: Russian (Native)
+  en: English (B1)
+
+experience:
+  exp: Experience
+  vtb:
+    bank: VTB Bank
+    duration: May 2016 - December 2021
+    worker: Senior Account Specialist
+    work_duties:
+     - Settlement of problem debts, resolution of conflict situations;
+     - Advising and coordinating clients on issues related to debt repayment;
+     - Analyzing restructuring terms requested by the borrower;
+     - Developing and negotiating the terms of debt settlement transactions;
+     - Analyzing and reporting, preparing and submitting for consideration of the bank's collegial bodies issues that fall within their competence;
+     - Following the results of the work fulfilled the bank's business plans, as well as achieving positive results for clients in difficult situations.
+

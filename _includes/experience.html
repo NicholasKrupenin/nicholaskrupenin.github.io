@@ -1,0 +1,51 @@
+<h2>{% t experience.exp %}</h2>
+  <div class="row">
+    <div class="col-2">
+      <p>{% t experience.vtb.duration %}</p>
+    </div>
+    <div class="col-10">
+      <h4>{% t experience.vtb.company %} - {% t experience.vtb.worker %}</h4>
+      <ul>
+          {% for item in site.translations[site.lang].experience.vtb.work_duties %}
+            <li>{{ item }}</li>
+          {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-2">
+      <p>{% t experience.business_lines.duration %}</p>
+    </div>
+    <div class="col-10">
+      <h4>{% t experience.business_lines.company %} - {% t experience.business_lines.worker %}</h4>
+      <ul>
+          {% for item in site.translations[site.lang].experience.business_lines.work_duties %}
+            <li>{{ item }}</li>
+          {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <!---->
+  <!-- <div class="row"> -->
+  <!--   <div class="col-2"> -->
+  <!--     <p>{% t experience.army.duration %}</p> -->
+  <!--   </div> -->
+  <!--   <div class="col-10"> -->
+  <!--     <h4>{% t experience.army.company %} - {% t experience.army.worker %}</h4> -->
+  <!--   </div> -->
+  <!-- </div> -->
+  <!---->
+  <div class="row">
+    <div class="col-2">
+      <p>{% t experience.astra.duration %}</p>
+    </div>
+    <div class="col-10">
+      <h4>{% t experience.astra.company %} - {% t experience.astra.worker %}</h4>
+      <ul>
+          {% for item in site.translations[site.lang].experience.astra.work_duties %}
+            <li>{{ item }}</li>
+          {% endfor %}
+      </ul>
+    </div>
+  </div>

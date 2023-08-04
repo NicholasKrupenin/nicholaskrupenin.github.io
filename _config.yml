@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
   - jekyll-pdf-embed
+  - github-pages
 languages: ["ru", "en"]
 
 # Exclude from processing.

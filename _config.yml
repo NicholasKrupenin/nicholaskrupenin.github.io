@@ -21,7 +21,8 @@
 title: CV Krupenin Nicholas
 email: krupenin.nikolay@gmail.com
 github_username: NicholasKrupenin
-
+domain: nicholaskrupenin.github.io
+url: https://nicholaskrupenin.github.io
 # Build settings
 theme: minima
 plugins:

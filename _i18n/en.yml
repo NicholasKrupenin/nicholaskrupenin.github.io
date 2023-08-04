@@ -18,18 +18,6 @@ skill:
     So now I'm trying to do my best to growth as Web Developer and help companies to reach business goals.
   skills: Skills
   dev_skills: Developer skills
-  ruby: |
-    Ruby is excellent way to interpret your thoughts and ideas to any machine through Object-oriented programming tools and with the assistance of unique Ruby community (who also creates awesome gems, patterns, education resources, etc.)
-  ror: |
-    etc
-  scraping: |
-    Nokogiri and OpenURI gems help to retreive data from the Web according to individual settings and then Ruby 
-    builtin methods allows to transform this data to any preferable format (output text to termianl console, 
-    .xlsx tables, etc.).
-  spec: |
-    Currently I use RSpec tests (with FactoryBot and Capybara gems) for checking RoR models, controller actions, 
-    policies, etc. For me tests are 'internal auditors', so 'due diligence' of an app is good technical and 
-    business practice, so I am on my way to learn RSpec and other tests more deeply.
 
 language:
   title: Language skills
@@ -39,14 +27,47 @@ language:
 experience:
   exp: Experience
   vtb:
-    bank: VTB Bank
+    company: VTB Bank
     duration: May 2016 - December 2021
     worker: Senior Account Specialist
     work_duties:
-     - Settlement of problem debts, resolution of conflict situations;
-     - Advising and coordinating clients on issues related to debt repayment;
-     - Analyzing restructuring terms requested by the borrower;
-     - Developing and negotiating the terms of debt settlement transactions;
-     - Analyzing and reporting, preparing and submitting for consideration of the bank's collegial bodies issues that fall within their competence;
-     - Following the results of the work fulfilled the bank's business plans, as well as achieving positive results for clients in difficult situations.
+     - Advising and coordinating clients on lending issues
+     - Settlement of problem debts, resolution of conflict situations
+     - Analyzing restructuring terms requested by the borrower
+     - Analyzing and reporting, preparing and submitting for consideration by the bank's collegial bodies issues that fall within their competence
+     - Following the results of work fulfilled the bank's business plans, as well as achieved a positive result for clients in difficult situations
 
+  business_lines:
+    company: Delovie linii
+    duration: December 2013 - August 2016
+    worker: Information department specialist
+    work_duties:
+     - Handling of the bill of lading in the "1C Enterprise" program
+     - Successful resolution of conflict situations on cargo transportation
+     - Coordination of a set of documents for customs clearance of cargo (TRG 12, Invoices, Certificates of Conformity, Cargo Customs Declaration, CMR).
+     - Coordination of air and multimodal transportation with the transportation department of the company
+     - Interaction with logisticians and managers on cargo delivery.
+
+  astra:
+    company: PKF Astra-Oreol Ltd.
+    duration: November 2009 - June 2012
+    worker: Dispatcher of technical service of subscriber support
+    work_duties:
+     - Consulting clients on the provision of company services;
+     - Working with client base;
+     - Remote solution of technical problems;
+     - Technical diagnostics of clients' network equipment;
+     - Consulting the client on technical issues of PC operation;
+     - Control over the operation of the company's network equipment.
+
+education:
+  edu: Education
+  nethology:
+    company: Netology
+    duration: November 15, 2021 - January 14, 2023
+    profession: System administrator
+    cert: Certificate
+  thinknetika:
+    company: Thinknetika
+    duration: May 2022-present
+    profession: Ruby on Rails developer

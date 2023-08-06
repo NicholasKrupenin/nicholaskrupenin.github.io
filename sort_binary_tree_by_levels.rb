@@ -1,2 +1,0 @@
-def sort_binary_tree_by_levels(arg)
-end

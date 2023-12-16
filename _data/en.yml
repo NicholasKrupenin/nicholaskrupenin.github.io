@@ -8,14 +8,8 @@ global:
 
 skill:
   myself: Bio
-  bio: | 
-    All my entire career I have a deal with diffirent business processes: developing & manufacturing products, 
-    B2B sales & marketing, relationships between government and private sector, startup launching, etc. 
-    And I have noticed that Web products are becoming not just a necessary element of any business process, 
-    but are gradually becoming leading roles. Investment in Web products leads to added value growth, 
-    reducing of total costs and speeding up of activities. As a result I have decided to dive deep into the Web Developing, 
-    especially Ruby on Rails (RoR) ecosytem, and started to be as professional developer. 
-    So now I'm trying to do my best to growth as Web Developer and help companies to reach business goals.
+  bio: |
+    All my entire career I have a deal with diffirent business processes and I have noticed that Web products are becoming not just a necessary element of any business process, but are gradually becoming leading roles. Investment in Web products leads to added value growth, reducing of total costs and speeding up of activities. As a result I have decided to dive deep into the Web Developing, especially Ruby on Rails (RoR) ecosytem, and started to be as professional developer. So now I'm trying to do my best to growth as Web Developer and help companies to reach business goals.
   skills: Skills
   dev_skills: Developer skills
   git: took a course from
